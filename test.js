@@ -1,1 +1,2 @@
-my test file
+var test file.js
+funciton(){}
